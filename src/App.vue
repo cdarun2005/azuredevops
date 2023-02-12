@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Generate Model inference MLOPS-Approve</h1>
+    <h1>Generate Model inference MLOPS-PROD</h1>
 	<h2>Upload your data to make to ge predections</h2>
     <img
       alt="Vue logo"
